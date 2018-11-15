@@ -17,6 +17,5 @@ int Calculator::Sub (double a, double b)
 int Calculator::Mul (double a, double b)
 {
 	TEXT3
-	TEST3
     return a * b + 0.5;
 }
