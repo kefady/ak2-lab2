@@ -19,3 +19,8 @@ int Calculator::Mul (double a, double b)
 	TEXT3
     return a * b + 0.5;
 }
+
+
+
+
+
